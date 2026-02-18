@@ -18,4 +18,5 @@ Just getting started!
 Roadmap: TBD
 
 Contact Info:
-Head Maintainer: [hmb433@nau.edu](https://github.com/HunterB433)
+Head Maintainer: 
+[hmb433@nau.edu](https://github.com/HunterB433)
