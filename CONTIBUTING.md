@@ -16,7 +16,12 @@ Contributing Code:
 6) apply their reviews, then the review will merge the PR, close the issue, and delete the branch
 7) Celebrate with beer
 
+Formatting Guidlines:
 Rule of Thumb for both above, Be as DESCRIPTIVE as you can -- 
 For bugs, offer what lead to the bug, your specs, screen shots, etc etc
 For ideas, clearly outline what you are thinking, what technologies you may consider, etc etc
 For PRS, offer screenshots on the changes, why you made them, what to keep in mind
+
+See [GUR](#) For code style guide lines
+
+See [CODE_OF_CONDUCT](https://github.com/NAU-OSS/SillyGodotGame/blob/main/CODE_OF_CONDUCT) For community guidelines and expectations
